@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 colors = "RRGBBYYKK"
 lines = 20
 
